@@ -10,7 +10,7 @@ This project is a full-stack authentication and authorization system built using
 
 ## 👨🏻‍💻 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,tailwindcss,nodejs,express,mongodb&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=ts,react,tailwindcss,bun,express,mongodb&theme=dark)
 
 ## 🔗 Links
 
